@@ -1,0 +1,2 @@
+library(httr)
+df<-read.csv("https://raw.githubusercontent.com/SangbuemCho/jbnu/master/vfa.csv", header=T, stringsAsFactors = F)
